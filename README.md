@@ -1,4 +1,4 @@
-# IF1210 Programming Basics Lab
+# IF1210 Programming Basics-Lab Work
 
 ![bocchi](https://giffiles.alphacoders.com/221/221715.gif)
 
