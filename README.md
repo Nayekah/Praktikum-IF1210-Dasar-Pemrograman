@@ -12,9 +12,9 @@ Welcome to my Programming Basics Lab repository! 🚀 This repository contains s
 
 | Praktikum    | Topic                                         | Score  |
 |--------------|-----------------------------------------------|--------|
-| 1            | Haskell-Basics                                | 120/120|
+| 1            | Haskell-Basics                                | 100/100|
 | 2            | Haskell-Recursive List                        | 100/100|
 | 3            | Python-Basics                                 | 100/100|
-| 4            | Python-Functions and Procedures (Modularity)  | 120/120|
+| 4            | Python-Functions and Procedures (Modularity)  | 100/100|
 | 5            | Python-Loops, Array Processing, Searching     | 100/100|
 | 6            | Python-File Processing                        | 100/100|
